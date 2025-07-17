@@ -15,7 +15,7 @@ Whether you’re prototyping an LLM‑powered assistant or spinning up a full‑
 
 ## 📂 Boilerplate Overview
 
-This repo’s **`Boilerplate-AgenticAi/`** folder defines a reusable, modular skeleton:
+This repo’s **`Boilerplate_AgenticAi/`** folder defines a reusable, modular skeleton:
 
 ---
 
@@ -51,7 +51,7 @@ It’s what powers truly intelligent apps: a chatbot that browses events, books 
 
 ```text
 .
-├── Boilerplate-AgenticAI/   # Core templates for new AgenticAI projects
+├── Boilerplate_AgenticAI/   # Core templates for new AgenticAI projects
 │   ├── python-agent/        # CLI + LangChain boilerplate
 │   ├── webapp-fastapi/      # FastAPI + frontend boilerplate
 │   └── codespaces/          # GitHub Codespaces configs
