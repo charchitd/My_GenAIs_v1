@@ -2,7 +2,7 @@
 
 ConcTrack is a lightweight, API‑first “Concert Finder” built with **FastAPI**, **LangChain**, and **Google Gemini** (or OpenAI). It searches Ticketmaster for upcoming events, fetches details, and uses an LLM to generate a human‑friendly summary.
 
----
+
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ ConcTrack is a lightweight, API‑first “Concert Finder” built with **FastAP
 - **Containerized** with Docker for one‑step deployment  
 - **GitHub Codespaces** ready (via `.devcontainer/`)  
 
----
+
 
 ## 🔧 Getting Started
 
@@ -21,12 +21,12 @@ ConcTrack is a lightweight, API‑first “Concert Finder” built with **FastAP
 ```bash
 git clone https://github.com/your-username/Boilerplate_AgenticAI.git
 cd Boilerplate_AgenticAI/ConcTrack
-
+```
 # 🎵 ConcTrack — AgenticAI Concert Finder API
 
 ConcTrack is a lightweight, API‑first “Concert Finder” built with **FastAPI**, **LangChain**, and **Google Gemini** (or OpenAI). It searches Ticketmaster for upcoming events, fetches details, and uses an LLM to generate a human‑friendly summary.
 
----
+
 
 ## 🚀 Features
 
@@ -41,8 +41,6 @@ ConcTrack is a lightweight, API‑first “Concert Finder” built with **FastAP
 
 ## 🔧 Getting Started
 
-### 1. Clone the repo
-```bash
 git clone https://github.com/your-username/Boilerplate_AgenticAI.git
 cd Boilerplate_AgenticAI/ConcTrack
 
