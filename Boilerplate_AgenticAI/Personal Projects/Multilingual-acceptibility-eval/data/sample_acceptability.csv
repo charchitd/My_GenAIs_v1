@@ -1,0 +1,11 @@
+dataset,language,sentence,label
+sample,en,The cat sat on the mat.,1
+sample,en,The cat on the mat sat.,0
+sample,en,She enjoys to read books.,0
+sample,en,She enjoys reading books.,1
+sample,de,Der Hund bellt laut.,1
+sample,de,Der Hund laut bellt.,0
+sample,it,Io mangio una mela.,1
+sample,it,Io mangio una mela il.,0
+sample,ru,Я читаю книгу.,1
+sample,ru,Я читаю книга.,0
